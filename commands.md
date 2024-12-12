@@ -37,7 +37,7 @@
 - **Command**: `git status`
 - **Description**: Shows the status of the working directory and staging area.
 
-## 5. Git Configuration
+## 5. Git Configurations
 - **Command**: `git config --global user.name "[name]"`
 - **Description**: Sets the global user name for Git commands.
 
